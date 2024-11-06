@@ -9,7 +9,7 @@ export default function Header(){
             </div>
             <nav>
                 <Link to='/'>Home</Link>
-                <Link to='/catalogo'>Cardápio</Link>
+                <Link to='/cardapio'>Cardápio</Link>
                 <Link to='/login'></Link>
             </nav>
 
